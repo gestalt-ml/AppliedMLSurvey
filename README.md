@@ -1,2 +1,2 @@
 # AppliedMLSurvey
-Development Iteration Statistics Collected Applied Machine Learning Publications
+Workflow Iterations Statistics Collected from Applied Machine Learning Publications.
