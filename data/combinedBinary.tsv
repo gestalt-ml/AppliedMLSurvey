@@ -1,0 +1,106 @@
+Paper Name	KDD	ACL	NATURE	CVPR	Social Sciences	Natural Sciences	NLP	CV	Web App	Feature Definition	Interaction	Discretize	Join multiple sources	Normalize	Standardize	Hashing	Bag of Words	Impute Missing Values	Matrix Factorization Based (PCA, SVD)	Univariate Feature Selection (via support, mutual information, correlation, etc)	DataPrepOtherCount	DNN: CNN	DNN: LSTM	DNN: other	SVM	GLMs (linear/logistic regression, etc)	Generative models (e.g. HMM, LDA)	Matrix Factorization	Tree-based: Decision Tree	Tree-based: Random Forest	Network Analysis	Ensemble	ModelClassOtherCount	Regularize	Learning Rate(&hyper para)	Win/Batch size	Convergence Criteria	Cross Validation	DNN Architecture Mod.	Kernel Change (in SVM)	Precision/Recall	RMSE (MSE)	Accuracy	Correlation (Pearson, Spearman, etc)	(N)DCG	Feature Importance	Case Study	Visualization	Human Evaluation	MetricOtherCount	# Result tables	# Result Figures
+Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	3.0	2.0
+Joint Optimization of Multiple Performance Metrics in Online Video Advertising	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0.0	2.0
+Identifying Earmarks in Congressional Bills	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	4.0	3.66666666667
+Predictors without Borders: Behavioral Modeling of Product Adoption in Three Developing Countries	1	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0.0	3.33333333333
+EMBERS at 4 years: Experiences operating an Open Source Indicators Forecasting System	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	1	0	2.0	14.0
+Minimizing Legal Exposure for High-Tech Companies through Collaborative Filtering Methods	1	0	0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1.0	2.33333333333
+Identifying Decision Makers from Professional Social Networks	1	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1.66666666667	2.0
+Designing Policy Recommendations to Reduce Home Abandonment in Mexico	1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1.66666666667	1.0
+Identifying Police Officers at Risk of Adverse Events	1	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	1.0	6.0
+The Legislative Influence Detector: Finding Text Reuse in State Legislation	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	0	0	0.0	6.0
+Aircraft Trajectory Prediction made easy with Predictive Analytics	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	1.0	3.0
+An Engagement-Based Customer Lifetime Value System for E-commerce	1	0	0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	0	0	0	3.0	4.0
+Catch Me If You Can: Detecting Pickpocket Suspects from Large-Scale Transit Records	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	0	1.0	1.66666666667
+Days on Market: Measuring Liquidity in Real Estate Markets	1	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3.0	1.0
+Taxi Driving Behavior Analysis in Latent Vehicle-to-Vehicle Networks: A Social Influence Perspective	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	3.0	3.0
+CompanyDepot: Employer Name Normalization in the Online Recruitment Industry	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	1.0	3.0
+Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	1	0	0	2.0	1.33333333333
+Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	7.0	4.33333333333
+Understanding Behaviors that Lead to Purchasing: A Case Study of Pinterest	1	0	0	0	0	0	0	0	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1	0	1	0	0	1	0	1.0	3.0
+Audience Expansion for Online Social Network Advertising	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2.0	2.66666666667
+From Online Behaviors to Offline Retailing	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1	1.0	2.0
+Talent Circle Detection in Job Transition Networks	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	0	1	1.0	3.66666666667
+A Non-parametric Approach to Detect Epileptogenic Lesions using Restricted Boltzmann Machines	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1.0	1.33333333333
+DopeLearning: A Computational Approach to Rap Lyrics Generation	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	1	0	1	0	0	0	0	0	1	0	1.0	1.0
+Convolutional Neural Networks for Steady Flow Approximation	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	0	0	0	1	0	1	4.33333333333	1.33333333333
+Detecting Devastating Diseases in Search Logs	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	5.0	1.0
+Compute Job Memory Recommender System Using Machine Learning	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	3.0	6.33333333333
+Reverse engineering highlights potential principles of large gene regulatory network design and learning	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0.0	6.33333333333
+Prediction of N-Methyl-D-Aspartate Receptor GluN1-Ligand Binding Affinity by a Novel SVM-Pose/SVM-Score Combinatorial Ensemble Docking Scheme	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	2.0	8.33333333333
+Hyperspectral Imaging for Presymptomatic Detection of Tobacco Disease with Successive Projections Algorithm and Machine-learning Classifiers	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	3.0	2.33333333333
+Constructing and Validating High-Performance MIEC-SVM Models in Virtual Screening for Kinases: A Better Way for Actives Discovery	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1.66666666667	3.0
+An improved method for identification of small non-coding RNAs in bacteria using support vector machine	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	6.0	0.0
+Organic carbon prediction in soil cores using VNIR and MIR techniques in an alpine landscape	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	2.0	3.33333333333
+Detection of Fungus Infection on Petals of Rapeseed (Brassica napus L.) Using NIR Hyperspectral Imaging	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.66666666667	1.33333333333
+Texture analysis in gel electrophoresis images using an integrative kernel-based approach	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1.66666666667	6.33333333333
+Recognition of Mould Colony on Unhulled Paddy Based on Computer Vision using Conventional Machine-learning and Deep Learning Techniques	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	3.33333333333	1.0
+Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0.0	9.0
+Discovering the building blocks of atomic systems using machine learning: application to grain boundaries	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	1.0	3.0
+Discovery of novel therapeutic properties of drugs from transcriptional responses based on multi-label classification	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	1	0	0	1	1	0	1	0	1	1	0	0	1	1	0	0	0.0	2.0
+Discrimination of plant root zone water status in greenhouse production based on phenotyping and machine learning techniques	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	0	3.33333333333	3.33333333333
+Network-based machine learning and graph theory algorithms for precision oncology	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0.0	2.0
+SpotOn: High Accuracy Identification of Protein-Protein Interface Hot-Spots	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	1	0	0	3.0	1.0
+Accurate prediction of X-ray pulse properties from a free-electron laser using machine learning	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1.0	4.0
+Knowledge-transfer learning for prediction of matrix metalloprotease substrate- cleavage sites	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	1	1	1	0	0	1.33333333333	4.0
+Performance of machine-learning scoring functions in structure-based virtual screening	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	1	0.0	4.0
+Machine learning applications for prediction of relapse in childhood acute lymphoblastic leukemia	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	2.0	2.0
+A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	4.66666666667	1.66666666667
+Images Don't Lie: Transferring Deep Visual Semantic Features to Large-Scale Multimodal Learning to Rank	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1.0	1.0
+Domain Adaptation in the Absence of Source Domain Data	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4.0	0.0
+Question Independent Grading using Machine Learning: The Case of Computer Program Grading	1	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0	1	2.0	1.0
+Dynamic Clustering of Streaming Short Documents	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1.0	6.0
+Text Mining in Clinical Domain: Dealing with Noise	1	0	0	0	0	0	1	0	0	1	0	0	0	1	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2.0	1.66666666667
+Scalable Fast Rank-1 Dictionary Learning for fMRI Big Data Analysis	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3.0	5.33333333333
+EMBERS AutoGSR: Automated Coding of Civil Unrest Events	1	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	4.66666666667	3.0
+Improving Hypernymy Detection with an Integrated Path-based and Distributional Method	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	4.0	0.0
+Harnessing Deep Neural Networks with Logic Rules	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	4.0	0.0
+Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	1	1	1	1	2.66666666667	1.66666666667
+On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	2.66666666667	2.66666666667
+Integrating Distributional Lexical Contrast into Word Embeddings for Antonym–Synonym Distinction	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3.0	1.0
+Learning Language Games through Interaction	0	1	0	0	0	0	1	0	0	1	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	1.33333333333	1.0
+A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	0	1	1	0	0	0	4.33333333333	0.0
+Learning Multiview Embeddings of Twitter Users	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	0	1	0	0	0	0	0	0	0	3.0	2.33333333333
+A Language-Independent Neural Network for Event Detection	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	3.66666666667	0.0
+Recognizing Salient Entities in Shopping Queries	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	2.33333333333	2.0
+Transition-based dependency parsing with topological fields	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4.0	1.0
+Implicit Polarity and Implicit Aspect Recognition in Opinion Mining	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1.66666666667	1.66666666667
+A Domain Adaptation Regularization for Denoising Autoencoders	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2.0	1.0
+Incremental Parsing with Minimal Features Using Bi-Directional LSTM	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	4.66666666667	1.0
+Semantic classifications for detection of verb metaphors	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	2.0	0.0
+Natural Language Inference by Tree-Based Convolution and Heuristic Matching	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	1	2.0	1.0
+Weakly Supervised Part-of-speech Tagging Using Eye-tracking Data	0	1	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	3.33333333333	0.0
+Deep Neural Networks for Syntactic Parsing of Morphologically Rich Languages	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2.66666666667	0.0
+Dependency-based Gated Recursive Neural Network for Chinese Word Segmentation	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	3.0	1.0
+Coarse-grained Argumentation Features for Scoring Persuasive Essays	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	4.66666666667	0.0
+Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	2.66666666667	1.66666666667
+Predicting Disk Replacement towards Reliable Data Centers	1	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	4.0	3.33333333333
+Email Volume Optimization at LinkedIn	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	2.66666666667	1.0
+An Empirical Study on Recommendation with Multiple Types of Feedback	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	2.0	4.66666666667
+Continuous Experience-aware Language Model	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	2.33333333333	5.0
+How to Get Them a Dream Job?	1	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	1.66666666667	2.66666666667
+Contextual Intent Tracking for Personal Assistants	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	2.0	3.0
+Ranking Relevance in Yahoo Search	1	0	0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	8.0	0.0
+Collaborative Knowledge Base Embedding for Recommender Systems	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.0	5.0
+CaSMoS: A Framework for Learning Candidate Selection Models over Structured Queries and Documents	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	1	1.0	5.33333333333
+When Recommendation Goes Wrong - Anomalous Link Discovery in Recommendation Networks	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	4.33333333333	0.0
+Fast Detection of Curved Edges at Low SNR	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	1.0	2.33333333333
+Face Alignment Across Large Poses: A 3D Solution	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	1	2.0	5.0
+Learning Dense Correspondence via 3D-guided Cycle Consistency	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	2.0	2.66666666667
+Learning to Assign Orientations to Feature Points	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	1	0	1	1.0	4.66666666667
+Stacked Attention Networks for Image Question Answering Zichao	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	1	0	1	6.0	1.33333333333
+Latent Embeddings for Zero-shot Classification	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4.33333333333	2.0
+The Global Patch Collider	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	5.0	4.66666666667
+Anticipating Visual Representations from Unlabeled Video	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	0	0	2.33333333333	3.33333333333
+Learning Deep Representations of Fine-Grained Visual Descriptions	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	0	0	1	0	0	3.0	2.66666666667
+Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	4.33333333333	1.0
+Generation and Comprehension of Unambiguous Object Descriptions	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	0	0	0	0	1	1	0	0	3.0	1.0
+Affinity CNN: Learning Pixel-Centric Pairwise Relations for Figure/Ground Embedding	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	0	0	1	0	0	1.0	2.33333333333
+Layered Scene Decomposition via the Occlusion-CRF	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1.33333333333	2.66666666667
+Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	1	0	1	4.0	2.66666666667
+Learning Attributes Equals Multi-Source Domain Generalization	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	4.0	1.33333333333
+Interactive Segmentation on RGBD Images via Cue Selection	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	2.0	2.66666666667
+Neural Module Networks	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	2.0	0.0
+Multi-Cue Zero-Shot Learning with Strong Supervision	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	5.0	1.66666666667
+One-Shot Learning of Scene Locations via Feature Trajectory Transfer	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	2.33333333333	1.33333333333
+Weakly Supervised Object Boundaries	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	0	0	4.33333333333	5.66666666667
